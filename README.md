@@ -6,19 +6,34 @@ INotification marker interface within the domain project without creating a doma
 
 I currently have the MediatR and MediatR .net Core DI packages installed in the UI project and they are added to DI using .AddMediatR(), with the command
 
+
 My solution is organized in four projects as follows:
 
+
 MyApp.Domain
+
     - Domain events
+    
     - Aggregates
+    
     - Interfaces (IRepository, etc), etc.
+    
 MyApp.ApplicationServices
+
     - Commands
+    
     - Command Handlers, etc.
+    
 MyApp.Infrastructure
+
     - Repository
+    
     - Emailer, etc.
+    
 MyApp.Web
+
     - Startup
+    
     - MediatR NuGet packages and DI here
+    
     - UI, etc.

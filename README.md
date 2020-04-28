@@ -26,6 +26,7 @@ MyApp.Infrastructure
     - Repository 
     - Emailer, etc.
     
+    
 MyApp.Web
 
     - Startup

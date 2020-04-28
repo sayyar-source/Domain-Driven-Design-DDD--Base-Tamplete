@@ -31,3 +31,4 @@ MyApp.Web
     - Startup
     - MediatR NuGet packages and DI here
     - UI, etc.
+    

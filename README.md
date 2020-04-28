@@ -32,4 +32,4 @@ MyApp.Web
     - Startup
     - MediatR NuGet packages and DI here
     - UI, etc.
-    
+    ![1_YVxaXqiIYskqPauNKZ2OSA](https://user-images.githubusercontent.com/34911292/80547828-dc8ad180-89c1-11ea-9b11-2ade3c6064a6.png)
